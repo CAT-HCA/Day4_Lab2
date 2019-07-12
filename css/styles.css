@@ -1,0 +1,31 @@
+
+.inactive {
+    color:gray;
+}
+
+.inactive:hover {
+    color:white;
+}
+
+.hcontent {
+    text-align:center;
+}
+
+.italic {
+    font-style:italic;
+    font-weight:500 ;
+}
+
+.listit {
+    font-weight:450;
+}
+
+.center {
+    text-align:center;
+}
+
+.test {
+    margin:0 auto;
+}
+
+
